@@ -1,5 +1,7 @@
 # Tableau-Project
 
+--Workplace Mental Health Analysis with Interactive Dashboards
+
 The Project aims to identify the factors affecting the mental health of employees at workplace.
 
 The dataset used is from Kaggle and the data is of US based company. 
